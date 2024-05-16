@@ -17,4 +17,4 @@ const PopularProducts = () => {
   )
 }
 
-export default PopularProducts
+export default PopularProducts;
